@@ -1,0 +1,159 @@
+body {
+
+    margin: 0 0 0 0;
+    background-color: #36465D;
+}
+
+/* --Panels Begin-- */
+
+.panel {
+
+
+
+}
+
+/* --Panels End-- */
+
+
+/* --Boxes Begin-- */
+
+.box-large {
+
+    height: inherit;
+    width: 80%;
+
+
+}
+
+/* --Boxes End-- */
+
+/* --Fonts Begin-- */
+
+h1 {
+
+    color: white;
+    font-family: "Hammersmith One", sans-serif;
+    font-size: 60px;
+
+}
+
+h2 {
+
+    color: white;
+    font-family: "Hammersmith One", sans-serif;
+
+}
+
+h3 {
+
+    color: white;
+    font-family: "Hammersmith One", sans-serif;
+
+}
+
+h4 {
+
+    color: white;
+    font-family: "Hammersmith One", sans-serif;
+
+}
+
+h5 {
+
+    color: #BDBDBD;
+    font-family: sans-serif;
+    display: inline;
+
+}
+
+/* --Fonts End-- */
+
+
+/* --Buttons & Hrefs Begin-- */
+#header a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+#button-tour {
+
+    background-color: #43A047;
+    float: left;
+    margin-left: 10%;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: solid 3px #2E7D32;
+
+}
+
+#button-tour:hover {
+
+    background-color: #2E7D32;
+    float: left;
+    margin-left: 10%;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: solid 3px #2E7D32;
+
+}
+
+#button-tour:active {
+
+    background-color: #2E7D32;
+    float: left;
+    margin-left: 10%;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: inset #1B5E20;
+
+
+}
+
+/* --Images Begin-- */
+
+#header i {
+
+    float: right;
+    margin-right: 10%;
+
+}
+
+/* --Images End-- */
+
+/* --Content Elements Begin-- */
+
+.box-large {
+
+    width: 75%;
+    height: inherit;
+    color: #000000;
+    background-color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    box-shadow: 1px 1px 2px #000;
+    border-radius: 3px;
+    padding-bottom: 50px;
+
+}
+
+.title h3 {
+
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+    color: #000000;
+
+}
+
+.date {
+
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+    font-family: "Hammersmith One", sans-serif;
+
+}
